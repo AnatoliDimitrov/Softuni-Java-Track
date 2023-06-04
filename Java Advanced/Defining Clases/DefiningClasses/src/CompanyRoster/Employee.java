@@ -13,7 +13,26 @@ public class Employee {
         this.setSalary(salary);
         this.setPosition(position);
         this.setDepartment(department);
+        this.setAge(age);
         this.setEmail(email);
+    }
+
+    public Employee(String name, Double salary, String position, String department) {
+        this.setName(name);
+        this.setSalary(salary);
+        this.setPosition(position);
+        this.setDepartment(department);
+        this.setAge(-1);
+        this.setEmail("n/a");
+    }
+
+    public Employee(String name, Double salary, String position, String department, String email) {
+        this(name, salary, position, department);
+        this.setEmail(email);
+    }
+
+    public Employee(String name, Double salary, String position, String department, int age) {
+        this(name, salary, position, department);
         this.setAge(age);
     }
 

@@ -74,9 +74,10 @@ public class Magazine {
     public String report(){
 //        var res = new StringBuilder();
 //        res.append(String.format("%s magazine contains:%n", this.getType()));
-        var result = String.format("%s magazine contains:%n", this.getType());
+        var result = String.format("%s magazine contains:", this.getType());
         for (int i = 0; i < data.size(); i++) {
-            result += data.get(i).toString() + "\n";
+            result += System.lineSeparator();
+            result += data.get(i).toString();
            // res.append(String.format("%s%n", data.get(i).toString()));
         }
         return result;
