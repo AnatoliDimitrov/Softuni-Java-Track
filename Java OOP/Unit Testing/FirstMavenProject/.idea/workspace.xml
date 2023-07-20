@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a761b324-2674-4238-a981-a7c5da0f70c1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../1.Working with Abstraction/WorkingWithAbstraction/src/cardsWithPower/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1.Working with Abstraction/WorkingWithAbstraction/src/cardsWithPower/RankPowers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1.Working with Abstraction/WorkingWithAbstraction/src/cardsWithPower/SuitPowers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1.Working with Abstraction/WorkingWithAbstraction/src/greedyTimes/Bag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1.Working with Abstraction/WorkingWithAbstraction/src/greedyTimes/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1.Working with Abstraction/WorkingWithAbstraction/src/jediGalaxy/Galaxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1.Working with Abstraction/WorkingWithAbstraction/src/jediGalaxy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1.Working with Abstraction/WorkingWithAbstraction/src/jediGalaxy/Star.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1.Working with Abstraction/WorkingWithAbstraction/src/jediGalaxy/StarsManipulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1.Working with Abstraction/WorkingWithAbstraction/src/trafficLights/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1.Working with Abstraction/WorkingWithAbstraction/src/trafficLights/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1.Working with Abstraction/WorkingWithAbstraction/src/trafficLights/Signal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2.Encapsulation/Encapsulation/src/animalFarm/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2.Encapsulation/Encapsulation/src/animalFarm/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2.Encapsulation/Encapsulation/src/classBoxDataValidation/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2.Encapsulation/Encapsulation/src/classBoxDataValidation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2.Encapsulation/Encapsulation/src/footballTeamGenerator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2.Encapsulation/Encapsulation/src/footballTeamGenerator/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2.Encapsulation/Encapsulation/src/footballTeamGenerator/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2.Encapsulation/Encapsulation/src/pizzaCalories/BakingTechnique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2.Encapsulation/Encapsulation/src/pizzaCalories/Dough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2.Encapsulation/Encapsulation/src/pizzaCalories/FlourType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2.Encapsulation/Encapsulation/src/pizzaCalories/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2.Encapsulation/Encapsulation/src/pizzaCalories/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2.Encapsulation/Encapsulation/src/pizzaCalories/Topping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2.Encapsulation/Encapsulation/src/pizzaCalories/ToppingType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2.Encapsulation/Encapsulation/src/shoppingSpree/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2.Encapsulation/Encapsulation/src/shoppingSpree/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2.Encapsulation/Encapsulation/src/shoppingSpree/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/person/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/person/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/person/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/playersAndMonsters/BladeKnight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/playersAndMonsters/DarkKnight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/playersAndMonsters/DarkWizard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/playersAndMonsters/Elf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/playersAndMonsters/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/playersAndMonsters/Knight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/playersAndMonsters/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/playersAndMonsters/MuseElf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/playersAndMonsters/SoulMaster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/playersAndMonsters/Wizard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/zoo/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/zoo/Bear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/zoo/Gorilla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/zoo/Lizard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/zoo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/zoo/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/zoo/Reptile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/zoo/Snake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11. Java-OOP-Unit-Testing-Lab.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rpg_lab/Axe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rpg_lab/Dummy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rpg_lab/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/rpg_lab/AxeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/rpg_lab/DummyTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2SqIUbjGAP31S5cxoD7t7yW5StG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.DummyTest.testDummyTakesAttackCorrectly">
+    <configuration name="AxeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FirstMavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rpg_lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rpg_lab" />
+      <option name="MAIN_CLASS_NAME" value="rpg_lab.AxeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DummyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FirstMavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rpg_lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rpg_lab" />
+      <option name="MAIN_CLASS_NAME" value="rpg_lab.DummyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DummyTest.testCtorCreatesValidObject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FirstMavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rpg_lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rpg_lab" />
+      <option name="MAIN_CLASS_NAME" value="rpg_lab.DummyTest" />
+      <option name="METHOD_NAME" value="testCtorCreatesValidObject" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DummyTest.testDummyTakeAttackThrowsIllegalStateException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FirstMavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rpg_lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rpg_lab" />
+      <option name="MAIN_CLASS_NAME" value="rpg_lab.DummyTest" />
+      <option name="METHOD_NAME" value="testDummyTakeAttackThrowsIllegalStateException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DummyTest.testDummyTakesAttackCorrectly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FirstMavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rpg_lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rpg_lab" />
+      <option name="MAIN_CLASS_NAME" value="rpg_lab.DummyTest" />
+      <option name="METHOD_NAME" value="testDummyTakesAttackCorrectly" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DummyTest.testDummyTakesAttackCorrectly" />
+        <item itemvalue="JUnit.DummyTest.testDummyTakeAttackThrowsIllegalStateException" />
+        <item itemvalue="JUnit.DummyTest" />
+        <item itemvalue="JUnit.DummyTest.testCtorCreatesValidObject" />
+        <item itemvalue="JUnit.AxeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a761b324-2674-4238-a981-a7c5da0f70c1" name="Changes" comment="" />
+      <created>1689867703310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689867703310</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FirstMavenProject$AxeTest.ic" NAME="AxeTest Coverage Results" MODIFIED="1689868756341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>rpg_lab.*</FILTER>
+    </SUITE>
+  </component>
+</project>
