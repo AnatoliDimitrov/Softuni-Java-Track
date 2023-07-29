@@ -5,68 +5,63 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a761b324-2674-4238-a981-a7c5da0f70c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../1.Working with Abstraction/WorkingWithAbstraction/src/cardsWithPower/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1.Working with Abstraction/WorkingWithAbstraction/src/cardsWithPower/RankPowers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1.Working with Abstraction/WorkingWithAbstraction/src/cardsWithPower/SuitPowers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1.Working with Abstraction/WorkingWithAbstraction/src/greedyTimes/Bag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1.Working with Abstraction/WorkingWithAbstraction/src/greedyTimes/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1.Working with Abstraction/WorkingWithAbstraction/src/jediGalaxy/Galaxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1.Working with Abstraction/WorkingWithAbstraction/src/jediGalaxy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1.Working with Abstraction/WorkingWithAbstraction/src/jediGalaxy/Star.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1.Working with Abstraction/WorkingWithAbstraction/src/jediGalaxy/StarsManipulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1.Working with Abstraction/WorkingWithAbstraction/src/trafficLights/Light.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1.Working with Abstraction/WorkingWithAbstraction/src/trafficLights/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1.Working with Abstraction/WorkingWithAbstraction/src/trafficLights/Signal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2.Encapsulation/Encapsulation/src/animalFarm/Chicken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2.Encapsulation/Encapsulation/src/animalFarm/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2.Encapsulation/Encapsulation/src/classBoxDataValidation/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2.Encapsulation/Encapsulation/src/classBoxDataValidation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2.Encapsulation/Encapsulation/src/footballTeamGenerator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2.Encapsulation/Encapsulation/src/footballTeamGenerator/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2.Encapsulation/Encapsulation/src/footballTeamGenerator/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2.Encapsulation/Encapsulation/src/pizzaCalories/BakingTechnique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2.Encapsulation/Encapsulation/src/pizzaCalories/Dough.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2.Encapsulation/Encapsulation/src/pizzaCalories/FlourType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2.Encapsulation/Encapsulation/src/pizzaCalories/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2.Encapsulation/Encapsulation/src/pizzaCalories/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2.Encapsulation/Encapsulation/src/pizzaCalories/Topping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2.Encapsulation/Encapsulation/src/pizzaCalories/ToppingType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2.Encapsulation/Encapsulation/src/shoppingSpree/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2.Encapsulation/Encapsulation/src/shoppingSpree/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2.Encapsulation/Encapsulation/src/shoppingSpree/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/person/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/person/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/person/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/playersAndMonsters/BladeKnight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/playersAndMonsters/DarkKnight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/playersAndMonsters/DarkWizard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/playersAndMonsters/Elf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/playersAndMonsters/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/playersAndMonsters/Knight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/playersAndMonsters/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/playersAndMonsters/MuseElf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/playersAndMonsters/SoulMaster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/playersAndMonsters/Wizard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/zoo/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/zoo/Bear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/zoo/Gorilla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/zoo/Lizard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/zoo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/zoo/Mammal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/zoo/Reptile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.Inheritance/Inheritance/src/zoo/Snake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../11. Java-OOP-Unit-Testing-Lab.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rpg_lab/Axe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rpg_lab/Dummy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rpg_lab/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/rpg_lab/AxeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/rpg_lab/DummyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation - 19 December 2022/MagicGameApp/src/main/java/magicGame/core/ControllerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation - 19 December 2022/MagicGameApp/src/main/java/magicGame/models/magicians/BlackWidow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation - 19 December 2022/MagicGameApp/src/main/java/magicGame/models/magicians/MagicianImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation - 19 December 2022/MagicGameApp/src/main/java/magicGame/models/magicians/Wizard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation - 19 December 2022/MagicGameApp/src/main/java/magicGame/models/magics/BlackMagic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation - 19 December 2022/MagicGameApp/src/main/java/magicGame/models/magics/MagicImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation - 19 December 2022/MagicGameApp/src/main/java/magicGame/models/magics/RedMagic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation - 19 December 2022/MagicGameApp/src/main/java/magicGame/models/region/RegionImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation - 19 December 2022/MagicGameApp/src/main/java/magicGame/repositories/interfaces/MagicRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation - 19 December 2022/MagicGameApp/src/main/java/magicGame/repositories/interfaces/MagicianRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 18 April 2023/CarShop-UnitTesting/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 18 April 2023/CarShop-UnitTesting/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 18 April 2023/CarShop-UnitTesting/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 18 April 2023/CarShop-UnitTesting/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 18 April 2023/CarShop-UnitTesting/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 18 April 2023/Vehicle-Shop-App/src/main/java/vehicleShop/core/ControllerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 18 April 2023/Vehicle-Shop-App/src/main/java/vehicleShop/models/shop/ShopImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 18 April 2023/Vehicle-Shop-App/src/main/java/vehicleShop/models/tool/ToolImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 18 April 2023/Vehicle-Shop-App/src/main/java/vehicleShop/models/vehicle/VehicleImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 18 April 2023/Vehicle-Shop-App/src/main/java/vehicleShop/models/worker/BaseWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 18 April 2023/Vehicle-Shop-App/src/main/java/vehicleShop/models/worker/FirstShift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 18 April 2023/Vehicle-Shop-App/src/main/java/vehicleShop/models/worker/SecondShift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 18 April 2023/Vehicle-Shop-App/src/main/java/vehicleShop/repositories/VehicleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 18 April 2023/Vehicle-Shop-App/src/main/java/vehicleShop/repositories/WorkerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 28 July 2023/Java-OOP-Exam-Problem-Description.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 28 July 2023/RobotServiceApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 28 July 2023/RobotServiceApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 28 July 2023/RobotServiceApp/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 28 July 2023/RobotServiceApp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 28 July 2023/RobotServiceApp/src/main/java/robotService/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 28 July 2023/RobotServiceApp/src/main/java/robotService/common/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 28 July 2023/RobotServiceApp/src/main/java/robotService/common/ConstantMessages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 28 July 2023/RobotServiceApp/src/main/java/robotService/common/ExceptionMessages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 28 July 2023/RobotServiceApp/src/main/java/robotService/core/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 28 July 2023/RobotServiceApp/src/main/java/robotService/core/ControllerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 28 July 2023/RobotServiceApp/src/main/java/robotService/core/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 28 July 2023/RobotServiceApp/src/main/java/robotService/core/EngineImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 28 July 2023/RobotServiceApp/src/main/java/robotService/entities/robot/BaseRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 28 July 2023/RobotServiceApp/src/main/java/robotService/entities/robot/FemaleRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 28 July 2023/RobotServiceApp/src/main/java/robotService/entities/robot/MaleRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 28 July 2023/RobotServiceApp/src/main/java/robotService/entities/robot/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 28 July 2023/RobotServiceApp/src/main/java/robotService/entities/services/BaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 28 July 2023/RobotServiceApp/src/main/java/robotService/entities/services/MainService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 28 July 2023/RobotServiceApp/src/main/java/robotService/entities/services/SecondaryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 28 July 2023/RobotServiceApp/src/main/java/robotService/entities/services/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 28 July 2023/RobotServiceApp/src/main/java/robotService/entities/supplements/BaseSupplement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 28 July 2023/RobotServiceApp/src/main/java/robotService/entities/supplements/MetalArmor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 28 July 2023/RobotServiceApp/src/main/java/robotService/entities/supplements/PlasticArmor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 28 July 2023/RobotServiceApp/src/main/java/robotService/entities/supplements/Supplement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 28 July 2023/RobotServiceApp/src/main/java/robotService/repositories/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 28 July 2023/RobotServiceApp/src/main/java/robotService/repositories/SupplementRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 28 July 2023/Robots/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 28 July 2023/Robots/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 28 July 2023/Robots/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 28 July 2023/Robots/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exam Preparation/Exam Preparation – 28 July 2023/Robots/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,16 +86,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="JUnit.DummyTest.testDummyTakesAttackCorrectly">
     <configuration name="AxeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FirstMavenProject" />
